@@ -8,8 +8,7 @@ lang: pl-PL
 
 T4B (średnie przedsiębiorstwo, projekt w Ciechanowie) ma wybrać produkt, który będzie przedmiotem projektu w Działaniu 2.33 FENG „Kredyt na wytwarzanie produktów podwójnego zastosowania” (BGK, nabór nr 1/2026, wnioski do **28.01.2027, godz. 16:00**). Dokument nie jest wnioskiem. To lista filtrów i pytań kontrolnych, którymi spółka może ocenić każdego kandydata na produkt.
 
-Opracowanie opiera się na czterech załącznikach do naboru: Kryteria wyboru projektów, Lista rodzajów produktów, Regulamin wyboru projektów i Przewodnik kwalifikowalności wydatków. Numery stron i punktów odnoszą się do tych dokumentów.
-
+Opracowanie opiera się na czterech załącznikach do naboru: Kryteria wyboru projektów, Lista rodzajów produktów, Regulamin wyboru projektów i Przewodnik kwalifikowalności wydatków.
 **Wsparcie ma formę częściowej refundacji kapitału kredytu** na pokrycie kosztów kwalifikowanych. Spółka musi więc mieć promesę lub warunkową umowę kredytu WPPZ z banku kredytującego najpóźniej w dniu złożenia wniosku (kryterium 1.2).
 
 # 2. Streszczenie: profil produktu, który ma najlepsze szanse
@@ -78,15 +77,15 @@ Warto, żeby prawnik od IP przygotował krótkie zestawienie „prawa do produkt
 
 # 5. Jak maksymalizować punkty (kryteria 2.10–2.12)
 
-Cała punktacja to **maksymalnie 11,5 pkt**. Konkurencja jest istotna: w naborze jest 400 mln zł, a nabór może zostać przedłużony m.in. gdy wnioski przekroczą 200% dostępnej kwoty. Przy równej liczbie punktów o kolejności decyduje stopa bezrobocia w powiecie realizacji projektu.
+Cała punktacja to **maksymalnie 11,5 pkt**. Konkurencja jest istotna: w naborze jest 400 mln zł, a nabór może zostać przedłużony m.in. gdy wnioski przekroczą 200% dostępnej kwoty. Przy równej liczbie punktów pierwszeństwo ma projekt realizowany w powiecie o wyższej stopie bezrobocia (dane GUS z końca miesiąca poprzedzającego okres sześciu miesięcy przed ogłoszeniem naboru). Tego czynnika spółka nie zmieni.
 
 | Podkryterium | Punkty | Jak je uzyskać | Uwagi praktyczne |
 |---|---|---|---|
 | **2.10 A. Nowość i innowacyjność** | 0 / 3 / 6 | 3 pkt: znaczna nowość lub ulepszenie względem produktów dostępnych na rynku. 6 pkt: innowacja radykalna lub przełomowa wg Podręcznika OSLO (zmienia strukturę rynku, tworzy nowe rynki, powoduje, że istniejące produkty się dezaktualizują). | Realny cel to 3 pkt, a 6 pkt tylko przy dobrze udokumentowanej przełomowości. Eksperci porównują cechy, parametry i funkcje z rozwiązaniami na rynku. **Dane niezgodne ze stanem rynku mogą skończyć się oceną negatywną**, więc nie przesadzać. |
 | **2.10 B. Potencjał eksportowy** | 0 / 1 | Realne szanse na rynku międzynarodowym, wiarygodne uzasadnienie i uwzględnienie **zezwoleń eksportowych** | Dla produktu dual-use eksport zwykle wymaga licencji. Należy przewidzieć je w opisie. |
 | **2.10 C. Automatyzacja lub robotyzacja produkcji** | 0 / 2 | Proces wytwarzania ma zastępować pracę ludzką zautomatyzowanymi urządzeniami (roboty z technologiami komplementarnymi to robotyzacja) | Dobrze, gdy produkt daje się wytwarzać na linii z automatyzacją (to też uzasadnia zakup linii technologicznych). |
-| **2.11 Krajowy Klaster Kluczowy** | 0 / 0,5 | Członkostwo w klastrze ze statusem KKK **od co najmniej 6 miesięcy** w dniu złożenia wniosku | Przy terminie 28.01.2027 jest to możliwe tylko przy członkostwie sprzed lipca 2026. Zapisanie się teraz nie wystarczy. |
-| **2.12 Programy akceleracyjne MON** | 0 / 2 | Udział (obecny lub dotychczasowy) w IDA BootCamp, NATO DIANA lub Miltech | Najbardziej wartościowy „dodatkowy” punkt. Tylko jeśli T4B już uczestniczy lub uczestniczyło. Za mało czasu na nowy udział przed końcem stycznia, o ile ktoś nie ma gotowego zgłoszenia. |
+| **2.11 Krajowy Klaster Kluczowy** | 0 / 0,5 | Członkostwo w klastrze ze statusem KKK **od co najmniej 6 miesięcy** w dniu złożenia wniosku | Liczy się członkostwo w dniu złożenia wniosku. Przy złożeniu wniosku 28.01.2027 trzeba było przystąpić najpóźniej 28.07.2026, a przy wcześniejszym złożeniu wymagana data jest wcześniejsza. Zapisanie się teraz nie wystarczy. |
+| **2.12 Programy akceleracyjne MON** | 0 / 2 | Udział (obecny lub dotychczasowy) w IDA BootCamp, NATO DIANA lub Miltech | Najbardziej wartościowy „dodatkowy” punkt. Kryterium obejmuje podmioty, które „są lub były” uczestnikami. Punkty dostanie więc T4B tylko wtedy, gdy już uczestniczy lub uczestniczyło. Czy da się jeszcze przystąpić do któregoś programu przed 28.01.2027, zależy od terminów naborów do programów (nie sprawdzałem). |
 
 **Wniosek:** przy braku klastra i programów MON realny sufit to 6–9 pkt (z kryterium 2.10). Cały nacisk przy wyborze produktu powinien iść na trzy rzeczy: **innowacyjność wykazaną liczbami, potencjał eksportowy i produkcję możliwą do zautomatyzowania**.
 
@@ -107,7 +106,7 @@ Poniższe porównanie pokazuje, **jak poszczególne kategorie Listy rodzajów pr
 |---|---|---|---|
 | **3 Elektronika** | 3A001 (układy, zespoły), 3A002 (zespoły elektroniczne), 3A003 (chłodzenie) | Łatwa automatyzacja (linie SMT), skalowalność, naturalny eksport, dobre uzasadnienie linii technologicznych | Duża konkurencja globalna; trudność wykazania „znacznej nowości” bez wyróżnika |
 | **4 Komputery** | 4A001 | Naturalny związek z IT | Wąski zakres pozycji; kryterium nowości trudne |
-| **5 Telekomunikacja i ochrona informacji** | 5A001, 5A101 (telemetria i zdalne sterowanie), 5A002–5A004 | Silny popyt wojskowy i cywilny, potencjał innowacji, produkty bliskie IT i teletechnice | **Kryptografia (ochrona informacji) ma dodatkowe wymogi eksportowe i certyfikacyjne**; część pozycji wymaga zgód |
+| **5 Telekomunikacja i ochrona informacji** | 5A001, 5A101 (telemetria i zdalne sterowanie), 5A002–5A004 | Silny popyt wojskowy i cywilny, potencjał innowacji, produkty bliskie IT i teletechnice | Zgodnie z moją wiedzą ogólną (nie z załączników) **kryptografia i ochrona informacji mają zwykle dodatkowe wymogi eksportowe i certyfikacyjne**; do potwierdzenia u doradcy |
 | **6 Czujniki i lasery** | 6A002 (czujniki optyczne), 6A003 (kamery), 6A004 (optyka), 6A008 (radary) | Wysoka wartość dodana, wyraźne zastosowania cywilne i wojskowe, innowacyjność łatwiejsza do wykazania | Złożona produkcja, często potrzeba pomieszczeń czystych; certyfikacja |
 | **7 Nawigacja i awionika** | 7A005 (odbiorniki nawigacji satelitarnej), 7A003 (inercyjne) | Popyt wojskowy rosnący, możliwe nowości (np. odporność na zakłócenia) | Ograniczenia eksportowe, wymagania jakościowe |
 | **9 Bezzałogowce, napędy** | 9A012 (UAV), 9B010 (sprzęt do wytwarzania UAV) | Bardzo duży popyt, szybka innowacyjność | Wysoka konkurencja i ryzyko „rakietowe” w sąsiednich pozycjach; ocena wykluczeń |
@@ -147,7 +146,7 @@ Każdy kandydat na produkt powinien dostać odpowiedź **TAK/NIE** na pytania z 
 3. **Równolegle**: audyt praw do produktu i pakiet dokumentów gotowości technicznej (rozdział 4).
 4. **Przygotować**: rozeznanie rynku cen (maszyny, budowa), harmonogram, informacje o pozwoleniach.
 5. **Nie podejmować** zobowiązań i zamówień na zakres projektu przed złożeniem wniosku (efekt zachęty).
-6. Wniosek składa się wyłącznie w Generatorze wniosków (lsi.bgk.pl), kwalifikowanym podpisem elektronicznym, najlepiej z zapasem czasu przed 16:00 ostatniego dnia.
+6. Wniosek składa się wyłącznie w Generatorze wniosków (lsi.bgk.pl). Dokumenty wymagające podpisu (np. oświadczenie dotyczące tajemnicy bankowej) podpisuje się kwalifikowanym podpisem elektronicznym w formacie PAdES. Warto złożyć wniosek z zapasem czasu przed 16:00 ostatniego dnia i sprawdzić wcześniej ważność podpisów osób upoważnionych.
 
 # 10. Zastrzeżenia
 

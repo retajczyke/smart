@@ -74,7 +74,7 @@
 
 ## Podsumowanie
 
-- Pozycji ocenionych: 53. Ocena **1**: 41. Ocena **0**: 12 (A2, A3, B6, C1, C5, C6, C7, C8, C9, D2, D5; C10 ma 1 za złożenie, bez spójności wskazanej w C6/C7).
+- Pozycji ocenionych: 43. Ocena **1**: 32. Ocena **0**: 11 (A2, A3, B6, C1, C5, C6, C7, C8, C9, D2, D5). C10 ma 1 za samo złożenie bilansu; jego spójność jest oceniona w C6 i C7.
 - **Warunki udziału:** 12.1 = 1, 12.3 = 1, **12.2 = 0**. Wezwanie **U** (pkt 20.1): A2 (poprawiony wykaz z liczbą punktów dla dostawy 8) i A3 (oświadczenie producenta lub oświadczenie Wykonawcy wskazujące producenta i oparte na jego danych).
 - **Omyłka rachunkowa (O):** B6 – wiersz RAZEM.
 - **Wyjaśnienia (W), bez zmiany treści oferty:** C1, C5, C6, C7, C8, C9, D2, D5. Tych braków nie można uzupełnić (pkt 20.1). Jeżeli wyjaśnienia nie usuną niezgodności, zastosowanie ma pkt 20.2 ppkt 3. Najpoważniejsze są C6/C7 (sprzeczność parametrów z własnym bilansem) oraz C1/D5 (brak zidentyfikowanego toru 2–148 kHz).

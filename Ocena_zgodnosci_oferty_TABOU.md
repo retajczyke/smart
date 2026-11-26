@@ -75,7 +75,7 @@ Suma punktów: **102** (bez dostawy nr 53) lub 103 (jeśli „1 zest." policzyć
 | Oświadczenie Wykonawcy (DNSH, stan fabryczny, UDT, współpraca, prawa autorskie) | 3. Zał. 3 | ✅ | Wypełnione, gwarancja 60 miesięcy. |
 | Oświadczenie o braku powiązań | 4. Zał. 4 | ✅ | – |
 | Specyfikacja (Tabela 1 i 2) | 2. Zał. 2 | ⚠️ | Wszystkie odpowiedzi TAK. Poz. 16 (rozwiązania równoważne) – „____", czyli brak wskazanych rozwiązań równoważnych, więc oferta musi spełniać wymagania wprost. Poz. 11 i 12 sprzeczne z bilansem mocy (pkt 5). Poz. 13 – sprawność 95% bez warunków pomiaru. Poz. 1 – nie wymieniono warstwy centralnej Orniview ani modułu szerokopasmowego. |
-| Podpis osoby uprawnionej | wszystkie pliki PDF | ✅ | Podpis kwalifikowany (CAdES) Adama Ginalskiego, ważny, złożony 25.11.2026 przed godz. 12:00. Niepodpisany jest jedynie odpis KRS (dokument rejestrowy). Termin i sposób doręczenia (e-mail) sprawdza Zamawiający. |
+| Podpis osoby uprawnionej | wszystkie pliki PDF | ✅ | Podpis elektroniczny (CAdES) Adama Ginalskiego, ważny kryptograficznie, z datą 25.11.2026 przed godz. 12:00; rodzaj podpisu i zaufanie do wystawcy certyfikatu weryfikuje Zamawiający. Niepodpisany jest jedynie odpis KRS (dokument rejestrowy). Termin i sposób doręczenia (e-mail) sprawdza Zamawiający. |
 | Język polski | – | ✅ | Dokumenty obce mają tłumaczenia na język polski (zwykłe). |
 | Pełnomocnictwo | – | n/d | Nie jest potrzebne (członek zarządu, samodzielna reprezentacja). |
 
@@ -197,7 +197,7 @@ Po ponownym sprawdzeniu źródeł (skany protokołów 40, 44, 48, 53, schemat 11
 | 4 | ≥ 1 dostawa dla producenta samochodów ciężarowych/autobusów (12.2) | Należycie wykonana dostawa z dokumentem potwierdzającym status nabywcy | Protokół 53 (Shandong Leichi, „1 zest. 1200 kW"); opis w wykazie | ⚠️ | Dowód statusu producenta pojazdów; liczba punktów; numery seryjne; daty |
 | 5 | Brak powiązań (12.3, pkt 22) | Zał. 4 | Zał. 4 + Zał. 3 pkt 18 | ✅ | Weryfikacja po stronie Zamawiającego |
 | 6 | Wadium 23 000 zł (pkt 13) | Wpłata przed 25.11.2026 12:00 na wskazany rachunek | Potwierdzenie przelewu z 24.11.2026 (dok. 9) | ✅ | Potwierdzenie uznania rachunku Zamawiającego |
-| 7 | Podpis i język (pkt 17, 21) | Podpis osoby uprawnionej; PL | Podpis kwalifikowany we wszystkich plikach; tłumaczenia PL | ✅ | Termin i sposób doręczenia do sprawdzenia |
+| 7 | Podpis i język (pkt 17, 21) | Podpis osoby uprawnionej; PL | Podpis elektroniczny (CAdES) we wszystkich plikach, ważny kryptograficznie; tłumaczenia PL | ✅ | Termin i sposób doręczenia do sprawdzenia |
 | 8 | Formularz ofertowy z ceną (pkt 17, Zał. 1) | Ceny netto/brutto, razem, gwarancja, wadium | Wypełniony (dok. 1); poprawne sumy | ✅ | Pusty wiersz „RAZEM" (formalność) |
 | 9 | Gwarancja ≥ 60 miesięcy (pkt 10) | ≥ 60 miesięcy na pełny zakres | 60 miesięcy (Formularz F, Zał. 3 pkt 6) | ✅ | – |
 | 10 | Termin 31.12.2026 (pkt 11) | Akceptacja terminu | Formularz E | ✅ | – |

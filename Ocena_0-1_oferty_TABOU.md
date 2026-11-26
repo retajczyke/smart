@@ -27,7 +27,7 @@
 
 | Nr | Wymaganie | Dokument oferty | Ocena | Jeśli 0 – czego żądać |
 |---|---|---|---|---|
-| B1 | Podpis osoby uprawnionej | Wszystkie pliki PDF (podpis kwalifikowany, 25.11.2026 przed 12:00); KRS: samodzielna reprezentacja | **1** | – |
+| B1 | Podpis osoby uprawnionej | Wszystkie pliki PDF z podpisem elektronicznym A. Ginalskiego (CAdES), ważnym kryptograficznie, z datą 25.11.2026 przed 12:00; KRS: samodzielna reprezentacja. Rodzaj podpisu (kwalifikowany / zaufany / osobisty) i zaufanie do wystawcy certyfikatu Zamawiający weryfikuje własnymi narzędziami | **1** | – |
 | B2 | Język polski | Dokumenty z tłumaczeniem PL | **1** | – |
 | B3 | Wadium 23 000 zł, dowód wniesienia | Dok. 9 (przelew 24.11.2026, rachunek i tytuł zgodne) | **1** | Zamawiający weryfikuje uznanie własnego rachunku |
 | B4 | Zał. 1, 2, 3, 4 złożone i wypełnione | Dok. 1–4 | **1** | – |
@@ -47,14 +47,15 @@
 | C4 | Parametry elektryczne pkt 3.3: napięcie AC, napięcie DC, prąd max, sprawność, współczynnik mocy, chłodzenie, zabezpieczenia | Dok. 10.1 | **1** | – |
 | C5 | Pkt 3.3: **warunki pracy przy obciążeniu maksymalnym** | Dok. 10.1 (podaje tylko zakresy temperatur ogólne) | **0** | Brak informacji o pracy przy obciążeniu maksymalnym. **W** (bez zmiany treści oferty); brak podstawy do uzupełnienia treści |
 | C6 | Pkt 3.3: **maksymalny pobór mocy AC** (Zał. 2 poz. 11) | Zał. 2 poz. 11: „ok. 2200 kW"; dok. 12: 2 273,68 kW (2 296,65 kVA) | **0** | Wartości sprzeczne w ofercie. **W** (parametr nie podlega zmianie, 20.1) |
-| C7 | Pkt 3.3: **liczba punktów jednocześnie ≥ 360 kW przy 2,2 MW** (Zał. 2 poz. 12) | Zał. 2 poz. 12: „6"; dok. 12: AC 2 273,68 kW > 2 200 kW (sprawność 95%, 2 090 kW DC < 2 160 kW) | **0** | Deklaracja „6" jest sprzeczna z własnym bilansem. **W** (nie można zmienić parametru; pkt 20.2 ppkt 3) |
+| C7 | Pkt 3.3: **liczba punktów jednocześnie ≥ 360 kW przy 2,2 MW** (Zał. 2 poz. 12) | Zał. 2 poz. 12: „6"; dok. 12: AC 2 273,68 kW > 2 200 kW (sprawność 95%, 2 090 kW DC < 2 160 kW) | **0** | Deklaracja „6" jest sprzeczna z danymi z własnego bilansu (obliczenie: 2 200 kW × 95% = 2 090 kW DC < 2 160 kW). **W** (nie można zmienić parametru; pkt 20.2 ppkt 3) |
 | C8 | Zał. 2 poz. 13: sprawność AC–DC **wraz z warunkami pomiaru** | Zał. 2 poz. 13: „95%" bez warunków; dok. 10.1: „maksymalna ≥ 95%" | **0** | **W:** warunki pomiaru sprawności |
 | C9 | Pkt 3.3: sposób zarządzania mocą przy ograniczeniu AC **oraz sposób współpracy z infrastrukturą z Zam. nr 3** | Dok. 11.2, 12 (ogólnie: „dynamiczne zarządzanie mocą") | **0** | Brak opisu współpracy z infrastrukturą zasilającą (Zam. 3). **W** |
 | C10 | Bilans mocy dla 6 × 360 kW | Dok. 12 (złożony) | **1** (złożenie) | Spójność – patrz C6, C7 |
 | C11 | Schemat technologiczny i opis architektury | Dok. 11.1, 11.2 | **1** | – |
-| C12 | OCPP ≥ 1.6J, billing, płatności kartą bez rejestracji, cena za kWh przed sesją, 2 terminale płatnicze, integracja z systemami zewnętrznymi | Zał. 2 poz. 15, Tabela 2 (1.1, 1.2); dok. 10.2, 11.2; Zał. 3 pkt 10 | **1** | – |
+| C12a | OCPP ≥ 1.6J, billing, płatności kartą bez rejestracji, cena za kWh przed sesją, 2 terminale płatnicze, integracja z systemami zewnętrznymi, możliwość zmiany platformy bez wymiany urządzeń | Zał. 2 poz. 15, Tabela 2 (1.1, 1.2); dok. 10.2, 11.2; Zał. 3 pkt 10 | **1** | – |
+| C12b | Pkt 5: przekazywanie danych o dostępności, stanie i cenie punktów w formacie umożliwiającym udostępnianie (w tym do krajowego punktu dostępowego) | Dok. 11.2 (wspomina tylko raportowanie i API); brak wprost | **0** | **W:** opis, w jaki sposób system przekazuje te dane |
 | C13 | Tabela 2 Zał. 2: wszystkie wymagania TAK (NIE = odrzucenie) | Zał. 2 | **1** | – |
-| C14 | Zał. 2 poz. 2, 6–10, 14–16 wypełnione zgodnie z wymaganiami (data produkcji ≥ 2024, 5 m, 2 przewody, 3 × 720 kW itd.) | Zał. 2 | **1** | – |
+| C14 | Zał. 2 poz. 2, 6–10, 14–16 wypełnione zgodnie z wymaganiami (produkcja nie wcześniej niż 24 mies. przed montażem, 5 m, 2 przewody, 3 × 720 kW itd.) | Zał. 2 (poz. 16 – kreski, czyli brak rozwiązań równoważnych) | **1** | – |
 
 ## D. System monitorowania (rozdz. 4)
 
@@ -74,10 +75,10 @@
 
 ## Podsumowanie
 
-- Pozycji ocenionych: 43. Ocena **1**: 32. Ocena **0**: 11 (A2, A3, B6, C1, C5, C6, C7, C8, C9, D2, D5). C10 ma 1 za samo złożenie bilansu; jego spójność jest oceniona w C6 i C7.
+- Pozycji ocenionych: 44. Ocena **1**: 32. Ocena **0**: 12 (A2, A3, B6, C1, C5, C6, C7, C8, C9, C12b, D2, D5). C10 ma 1 za samo złożenie bilansu; jego spójność jest oceniona w C6 i C7.
 - **Warunki udziału:** 12.1 = 1, 12.3 = 1, **12.2 = 0**. Wezwanie **U** (pkt 20.1): A2 (poprawiony wykaz z liczbą punktów dla dostawy 8) i A3 (oświadczenie producenta lub oświadczenie Wykonawcy wskazujące producenta i oparte na jego danych).
 - **Omyłka rachunkowa (O):** B6 – wiersz RAZEM.
-- **Wyjaśnienia (W), bez zmiany treści oferty:** C1, C5, C6, C7, C8, C9, D2, D5. Tych braków nie można uzupełnić (pkt 20.1). Jeżeli wyjaśnienia nie usuną niezgodności, zastosowanie ma pkt 20.2 ppkt 3. Najpoważniejsze są C6/C7 (sprzeczność parametrów z własnym bilansem) oraz C1/D5 (brak zidentyfikowanego toru 2–148 kHz).
+- **Wyjaśnienia (W), bez zmiany treści oferty:** C1, C5, C6, C7, C8, C9, C12b, D2, D5. Tych braków nie można uzupełnić (pkt 20.1). Jeżeli wyjaśnienia nie usuną niezgodności, zastosowanie ma pkt 20.2 ppkt 3. Najpoważniejsze są C6/C7 (sprzeczność parametrów z własnym bilansem) oraz C1/D5 (brak zidentyfikowanego toru 2–148 kHz).
 - Cena nie jest oceniana punktowo do czasu usunięcia braków (pkt 16: punktowane są tylko oferty niepodlegające odrzuceniu, od wykonawców spełniających warunki).
 
 ## Fakty do wyjaśnienia (bez wpływu na ocenę 0/1, wynikają z treści dokumentów)
@@ -85,6 +86,6 @@
 1. Protokół 40: pieczęć odbiorcy należy do innego podmiotu niż kupujący wskazany w protokole.
 2. Protokół 44: data uruchomienia 25.12.2025, data podpisu 29.12.2025; wykaz podaje 29.12.2025.
 3. Protokół 53: data podpisu 25.05.2025 wcześniejsza niż data uruchomienia 28.05.2025; brak numerów seryjnych.
-4. Protokół 48: brak modelu i numerów seryjnych (24 szt.). Dostawy 48, 40 i 53 stanowią łącznie 30 z 102 punktów.
+4. Protokół 48: brak modelu i numerów seryjnych (24 szt.). Dostawy 48 i 40 stanowią łącznie 30 z 102 punktów wykazu (bez nich byłoby 72); dostawa 53 nie jest wliczona do 102.
 5. Dok. 11.2 zawiera na końcu notatkę roboczą o konieczności potwierdzenia bilansu mocy.
 6. Dok. 10.6 podaje dwa numery certyfikatu METAS (213-01895 i 213-01936).
